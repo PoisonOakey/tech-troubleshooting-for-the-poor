@@ -1,5 +1,5 @@
 # Tech-Troubleshooting (3rd World Edition)
-Sharing some useful troubleshooting skills for those who can only afford older gadgets (definitely no Apple!)
+This is a series of technical documentations. Sharing some useful troubleshooting skills for those who can only afford older gadgets (definitely no Apple!)
 
 I'm using _**MSI GF63 Thin 10SC (2021, Intel i5)**_ for this series:
 
