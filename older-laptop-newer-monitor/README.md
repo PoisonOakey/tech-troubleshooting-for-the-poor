@@ -31,7 +31,7 @@ Normally, the GPU connects directly to physical video traces on the motherboard 
 [NVIDIA / Intel GPU] ──(Direct Hardware Traces)──> [USB-C Port (Data Only)] ✖ [Signal Terminated]
 ```
 
-DisplayLink adapter however, ignored the physical video traces entirely. It uses the CPU to compress the display data into standar network/ USB packets, and send it across the data pins of the USB-C port. Then, the GPU chip inside the adapter will do the heavy lifting of rebuilding the video signal.
+DisplayLink adapter however, ignored the physical video traces entirely. It uses the CPU to compress the display data into standard network/ USB packets, and send it across the data pins of the USB-C port. Then, the GPU chip inside the adapter will do the heavy lifting of rebuilding the video signal.
 
 <img width="512" height="280" alt="image" src="https://github.com/user-attachments/assets/f74cdc9b-d23d-47c7-9ae9-de65c5ea3ebb" />
 
